@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "102323408536",
+    "project_id": "random-video-call-app-f952d",
+    "storage_bucket": "random-video-call-app-f952d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102323408536:android:04c17df7da04e0cdb1caed",
+        "android_client_info": {
+          "package_name": "com.example.talkpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102323408536-65j0i2f62ni0unem1jevpor21guhe0v1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talkpractice",
+            "certificate_hash": "f5a6a36e6bb8df08c89861ece1d0579da743f5c1"
+          }
+        },
+        {
+          "client_id": "102323408536-38uli92h7i6rfkj0m42q83bj0u0v1dav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGUWWeFqv2gyqYQProQsFNv5yVbglvchM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102323408536-38uli92h7i6rfkj0m42q83bj0u0v1dav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
